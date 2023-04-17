@@ -1,0 +1,15 @@
+/workspaces/Day21/01_XMLSerialization/bin/Debug/net7.0/01_XMLSerialization
+/workspaces/Day21/01_XMLSerialization/bin/Debug/net7.0/01_XMLSerialization.deps.json
+/workspaces/Day21/01_XMLSerialization/bin/Debug/net7.0/01_XMLSerialization.runtimeconfig.json
+/workspaces/Day21/01_XMLSerialization/bin/Debug/net7.0/01_XMLSerialization.dll
+/workspaces/Day21/01_XMLSerialization/bin/Debug/net7.0/01_XMLSerialization.pdb
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.csproj.AssemblyReference.cache
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.AssemblyInfoInputs.cache
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.AssemblyInfo.cs
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.csproj.CoreCompileInputs.cache
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.dll
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/refint/01_XMLSerialization.dll
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.pdb
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/01_XMLSerialization.genruntimeconfig.cache
+/workspaces/Day21/01_XMLSerialization/obj/Debug/net7.0/ref/01_XMLSerialization.dll

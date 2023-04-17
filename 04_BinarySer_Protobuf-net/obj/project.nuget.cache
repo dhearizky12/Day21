@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv/iiUcMlA7Nnp2URwtnYDHWEYY8ex7A4fYoUkB5cC5zOfRLp6zAQoh/n7NLFqZVYwM3v5cqJWg5zxdivzVNKA==",
+  "success": true,
+  "projectFilePath": "/workspaces/Day21/04_BinarySer_Protobuf-net/04_BinarySer_Protobuf-net.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/protobuf-net/3.2.16/protobuf-net.3.2.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/protobuf-net.core/3.2.16/protobuf-net.core.3.2.16.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

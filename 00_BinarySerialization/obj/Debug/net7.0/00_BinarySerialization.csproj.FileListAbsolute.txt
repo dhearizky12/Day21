@@ -1,0 +1,5 @@
+/workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.csproj.AssemblyReference.cache
+/workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.AssemblyInfoInputs.cache
+/workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.AssemblyInfo.cs
+/workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.csproj.CoreCompileInputs.cache

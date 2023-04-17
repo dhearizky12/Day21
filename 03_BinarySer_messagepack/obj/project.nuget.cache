@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gb8W54vCnqDhjz8q1GDdixr7EBj9twc69y8KJxALYwvIBccLW8UBU5Qr1fsmz69qqe4NvSzkPo8XopT2MhMq5Q==",
+  "success": true,
+  "projectFilePath": "/workspaces/Day21/03_BinarySer_messagepack/03_BinarySer_messagepack.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/messagepack/2.5.108/messagepack.2.5.108.nupkg.sha512",
+    "/home/codespace/.nuget/packages/messagepack.annotations/2.5.108/messagepack.annotations.2.5.108.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.net.stringtools/17.4.0/microsoft.net.stringtools.17.4.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

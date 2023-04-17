@@ -1,0 +1,15 @@
+/workspaces/Day21/02_JSON Serialization/bin/Debug/net7.0/02_JSON Serialization
+/workspaces/Day21/02_JSON Serialization/bin/Debug/net7.0/02_JSON Serialization.deps.json
+/workspaces/Day21/02_JSON Serialization/bin/Debug/net7.0/02_JSON Serialization.runtimeconfig.json
+/workspaces/Day21/02_JSON Serialization/bin/Debug/net7.0/02_JSON Serialization.dll
+/workspaces/Day21/02_JSON Serialization/bin/Debug/net7.0/02_JSON Serialization.pdb
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.csproj.AssemblyReference.cache
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.AssemblyInfoInputs.cache
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.AssemblyInfo.cs
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.csproj.CoreCompileInputs.cache
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.dll
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/refint/02_JSON Serialization.dll
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.pdb
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/02_JSON Serialization.genruntimeconfig.cache
+/workspaces/Day21/02_JSON Serialization/obj/Debug/net7.0/ref/02_JSON Serialization.dll
