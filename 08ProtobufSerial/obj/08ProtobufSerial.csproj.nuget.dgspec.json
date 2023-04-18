@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\08ProtobufSerial.csproj": {}
+  },
+  "projects": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\08ProtobufSerial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\08ProtobufSerial.csproj",
+        "projectName": "08ProtobufSerial",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\08ProtobufSerial.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "protobuf": {
+              "target": "Package",
+              "version": "[2.6.1.1, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.2.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

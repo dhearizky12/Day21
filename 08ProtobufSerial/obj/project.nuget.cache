@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EW1cEn7/SSGVjbm6VCK2UhWqVRQYCuw/5Abpa2igy3MFFrGA2GnBh1g9ZiUXXIpVlhqF4lUIEF4/KROudeXNxg==",
+  "success": true,
+  "projectFilePath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 21\\Day21\\08ProtobufSerial\\08ProtobufSerial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf\\2.6.1.1\\protobuf.2.6.1.1.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

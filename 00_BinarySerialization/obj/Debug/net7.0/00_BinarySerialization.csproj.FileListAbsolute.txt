@@ -3,3 +3,8 @@
 /workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.AssemblyInfoInputs.cache
 /workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.AssemblyInfo.cs
 /workspaces/Day21/00_BinarySerialization/obj/Debug/net7.0/00_BinarySerialization.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\00_BinarySerialization\obj\Debug\net7.0\00_BinarySerialization.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\bin\Debug\net7.0\07JSONSerial.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\bin\Debug\net7.0\07JSONSerial.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\bin\Debug\net7.0\07JSONSerial.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\bin\Debug\net7.0\07JSONSerial.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\bin\Debug\net7.0\07JSONSerial.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\refint\07JSONSerial.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\07JSONSerial.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\07JSONSerial\obj\Debug\net7.0\ref\07JSONSerial.dll

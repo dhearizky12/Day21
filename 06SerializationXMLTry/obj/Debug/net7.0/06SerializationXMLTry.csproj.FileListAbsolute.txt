@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\bin\Debug\net7.0\06SerializationXMLTry.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\bin\Debug\net7.0\06SerializationXMLTry.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\bin\Debug\net7.0\06SerializationXMLTry.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\bin\Debug\net7.0\06SerializationXMLTry.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\bin\Debug\net7.0\06SerializationXMLTry.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\refint\06SerializationXMLTry.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\06SerializationXMLTry.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 21\Day21\06SerializationXMLTry\obj\Debug\net7.0\ref\06SerializationXMLTry.dll

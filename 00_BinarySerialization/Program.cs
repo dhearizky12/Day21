@@ -21,6 +21,7 @@ class Program
         using (FileStream stream = new FileStream("person.bin", FileMode.Create))
         {
             formatter.Serialize(stream, person);
+            
         }
 
         // Deserialize the object
